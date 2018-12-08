@@ -1,4 +1,4 @@
-<H1>Serviço Rest com WCF usando C# e Mysql</H1>
+<H1>C# - Serviço Rest em WCF acessando o Mysql</H1>
 
 
 <h2>Requisitos</h2>
